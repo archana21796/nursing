@@ -1,0 +1,72 @@
+# CareStride — robots.txt
+# Welcome, search engine crawlers. Index everything except auth-gated areas.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /account/
+Disallow: /dashboard/
+Disallow: /grievance/internal/
+Disallow: /*?ref=*
+Disallow: /*?utm_*
+
+Sitemap: https://carestride.health/sitemap.xml
+
+# ============================================================
+# AI crawler policy
+# ============================================================
+# We allow AI search and training crawlers. For a pre-launch
+# consumer brand, AI search visibility (citation in ChatGPT
+# Search, Perplexity, Claude, Google AI Overviews, Apple
+# Intelligence) outweighs IP protection on public marketing
+# content. Our authenticated/proprietary surfaces remain blocked
+# above; this section only covers public marketing pages.
+# ============================================================
+
+# OpenAI — search retrieval (cited in ChatGPT Search responses)
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI — user-triggered fetches via ChatGPT plugins/agents
+User-agent: ChatGPT-User
+Allow: /
+
+# OpenAI — training data ingestion
+User-agent: GPTBot
+Allow: /
+
+# Anthropic — Claude live web search
+User-agent: claude-web
+Allow: /
+
+# Anthropic — search-cited and training crawlers
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity — live retrieval, citation-rich
+User-agent: PerplexityBot
+Allow: /
+
+# Google — AI Overviews / Gemini training (separate from Google Search ranking)
+User-agent: Google-Extended
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Common Crawl — used by many open-source LLMs
+User-agent: CCBot
+Allow: /
+
+# ============================================================
+# Selectively blocked
+# ============================================================
+# ByteDance — opaque training, no clear citation/discovery
+# benefit for an Indian consumer brand. Re-evaluate later.
+User-agent: Bytespider
+Disallow: /

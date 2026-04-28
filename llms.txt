@@ -1,0 +1,173 @@
+# CareStride
+
+> India's AI-powered home healthcare marketplace for verified independent nurses and physiotherapists. Built for adult children caring for parents, NRI families managing care from abroad, and elders staying independent at home.
+
+CareStride connects Indian families with verified independent nursing and physiotherapy professionals for in-home visits. The platform is operated by Micro Pixel Private Limited and is currently pre-launch, preparing for a quality-gated rollout across India's major cities (Chennai, Bangalore, Coimbatore among the first wave).
+
+## What CareStride is
+
+- **An aggregator marketplace.** CareStride is not an employer of caregivers. Independent professionals run their own practice; nursing agencies can list their roster on the platform. CareStride verifies, matches, routes communication, protects privacy, and keeps a record.
+- **AI-powered.** 14 named AI integrations including SmartMatch (six-dimension compatibility scoring), NLP Search, Review Intelligence, Care Insights (plain-English vital trend summaries), AI Briefings, Pricing Intelligence, and Fraud & Safety Monitoring.
+- **GST-compliant and transparent.** Full pricing breakdown disclosed before booking — professional's fee, platform fee, applicable GST, and add-ons. GST-compliant invoices issued for every booking.
+- **Built on Next.js 14 (web), NestJS 11 (backend), and React Native + Expo (mobile).**
+
+## Five locked positions
+
+1. CareStride is an aggregator only — not an employer of caregivers
+2. CareStride guarantees nothing about outcomes. Not safety. Not quality. Not even that any specific request will find a professional. We engineer process, transparency, and an audit trail — never outcomes. We use the language "maximum possible safety considerations" and never "guaranteed safety."
+3. Verification is CareStride's responsibility; quality of care is the agency's or independent professional's. Background checks are the floor of trust on the platform — never the ceiling.
+4. CareStride operates a documented, time-bound grievance process for every concern raised on the platform — under IT (Intermediary Guidelines) Rules 2021 and Consumer Protection Act 2019
+5. Pricing transparency: full breakdown disclosed at booking
+
+## Five safety layers
+
+1. **NurseShield verification** — Aadhaar, PAN, face match, nursing council registration, criminal background check. Government IDs encrypted with AES-256-GCM at the field level.
+2. **CareScore** — live 0–100 trust score updated from completed visits, verified reviews, and continuous verification checks
+3. **Zero phone sharing** — masked calling via Exotel virtual numbers; families and professionals never see each other's real phone numbers
+4. **4-digit visit codes and SOS button** — visit only starts when the client confirms with a one-time code; SOS active throughout the visit with GPS and instant admin alert
+5. **Professional refusal rights** — professionals can end an unsafe visit with zero penalty
+
+## Six audiences
+
+- **Families in India** — book verified independent nurses and physiotherapists for home visits
+- **NRI Families** — manage parental care in India from any timezone via the Family Dashboard
+- **Independent Professionals** — keep your own practice; verified credentials signal trust
+- **Nursing Agencies** — bring your roster onto the platform under an operator account
+- **Hospital Discharge** (coming soon) — extend post-discharge care into patients' homes
+- **Corporate Wellness** (coming soon) — home healthcare as an employee benefit
+
+## Compliance
+
+- DPDP Act 2023 (Digital Personal Data Protection Act, India)
+- IT (Intermediary Guidelines) Rules 2021
+- Consumer Protection Act 2019
+- GST-compliant invoicing across all transactions
+
+## Pages
+
+- [Home](https://carestride.health/) **(live)**: Home nursing and physiotherapy in India — verified, AI-matched, on the record
+- [For NRI families](https://carestride.health/nri) **(live)**: Manage parents' care in India from any timezone. Family Dashboard with sibling coordination (role-based access), USD pricing alongside INR, AI Briefings delivered in your timezone, real-time SOS alerts, multi-currency international payment.
+- [For professionals](https://carestride.health/for-professionals) **(live)**: Independent practice with platform infrastructure. Build your practice without giving it away. CareStride takes 18% from families, never from your fee. NurseShield verification, CareScore record, AI-matched bookings, T+2 settlement, GST-compliant.
+- [For nursing agencies](https://carestride.health/partners/agencies) **(live)**: Bring your roster, keep your operations, add a demand layer. Operator dashboard for multi-professional dispatching, NurseShield bulk verification, brand co-listing, transparent 18% platform fee paid by families on top of your visit fee, no professional poaching, full dispatching authority preserved, T+5 settlement, 30-day exit with no fee.
+- [CareStride Insights — index](https://carestride.health/insights) **(live)**: Editorial hub. 4 launch articles covering how to choose a home nurse for elderly parents, post-knee-replacement physiotherapy, NRI parent-care payment logistics, post-discharge home nursing. Founder-reviewed. Editorial principles documented (no medical advice, sources cited, no engagement bait).
+- [How to choose a home nurse — guide](https://carestride.health/insights/how-to-choose-home-nurse-for-elderly-parents-india) **(live)**: 12-min read, ~3500 words. The 8-question checklist for choosing a verified home nurse for elderly parents in India. Covers registered nurse vs. attendant, identity & council verification, clinical task match, language match, fee structure transparency, communication structure, emergency & grievance, reputation signals. Internal links to /services/home-nursing, /about, city pages, and the post-discharge guide.
+- [Home physio after knee replacement — recovery guide](https://carestride.health/insights/home-physiotherapy-after-knee-replacement-guide) **(live)**: 10-min read, ~2500 words. Week-by-week post-TKR recovery guide. Range of motion targets (70-90° at week 1, 90-110° by week 4, 115-125° by week 8), walking goals, warning signs requiring surgeon escalation (DVT, infection, instability), what families can do between sessions. Internal links to /services/home-physiotherapy and city pages.
+- [NRI guide: sending money to India for parents' healthcare](https://carestride.health/insights/sending-money-india-parents-healthcare-nri-guide) **(live)**: 15-min read, ~3800 words. Comparison of 4 payment methods (NRE/NRO accounts, international wire, credit card with FX, P2P remittance services like Wise/Remitly). Cost trade-offs in actual rupees. Indian tax treatment (Section 56(2) gift exemption, NRE interest exemption, Section 80DDB and 80D deductions for parents). Multi-sibling coordination logistics with role-based dashboard access. Internal links to /nri, /services pricing, Puducherry & Mangalore city pages.
+- [Post-discharge home nursing — what to expect](https://carestride.health/insights/post-discharge-home-nursing-india-what-to-expect) **(live)**: 13-min read, ~3200 words. The first 14 days after hospital discharge are highest-risk for readmission. Pre-discharge checklist (8 questions for the discharge team), home setup (bed, bathroom, paths, medication space), typical post-discharge home nursing visit structure (5 stages, 60-90 minutes), warning signs requiring physician escalation (fever, wound issues, breathing/chest, calf swelling/DVT, decreased consciousness, vomiting), beyond-14-day transition. Internal links to /services/home-nursing, /insights/how-to-choose-home-nurse, and city hospital sections.
+- [Chennai city landing](https://carestride.health/cities/chennai) **(live)**: Verified home nursing & physiotherapy across Chennai. Adyar, T.Nagar, Anna Nagar, Velachery, OMR, ECR, and 16+ neighbourhoods. Post-discharge care from Apollo, MIOT, Sri Ramachandra, Kauvery, Fortis Malar. Tamil/English/Telugu/Hindi/Malayalam languages. Strong NRI corridor with US/Singapore/Australia/UK/Canada/UAE.
+- [Coimbatore city landing](https://carestride.health/cities/coimbatore) **(live)**: Verified home nursing & physiotherapy across Coimbatore. RS Puram, Saibaba Colony, Peelamedu, Saravanampatti, Race Course and 17+ neighbourhoods. Post-discharge care from PSG, KMCH, Ganga Hospital (orthopaedic specialist), Sri Ramakrishna, GEM. Tamil/English primary languages. NRI corridor with US/Singapore/Australia/UK/UAE.
+- [Bangalore (Bengaluru) city landing](https://carestride.health/cities/bangalore) **(live)**: Verified home nursing & physiotherapy across Bangalore. Indiranagar, Koramangala, HSR Layout, Whitefield, Electronic City, Marathahalli, Jayanagar, Malleshwaram and 17+ neighbourhoods. Post-discharge care from Manipal, Apollo, Fortis, Narayana Health, Aster CMI, Columbia Asia, Sakra. Kannada/English/Tamil/Hindi/Telugu/Malayalam. India's largest tech-NRI corridor (US/UK/Singapore/Canada/Australia/Germany).
+- [Tiruchirappalli (Trichy) city landing](https://carestride.health/cities/tiruchirappalli) **(planned)**: Coming to Tiruchirappalli/Trichy. Srirangam, Cantonment, Thillai Nagar, Woraiyur, K.K. Nagar and 15+ neighbourhoods planned. Post-discharge care from Kauvery, Apollo Speciality, ABC Hospital, GVN. Tamil/English. NRI corridor with US/Singapore/Australia/Malaysia/UAE. Register interest for early access.
+- [Puducherry (Pondicherry) city landing](https://carestride.health/cities/puducherry) **(planned)**: Coming to Puducherry/Pondicherry. White Town, Heritage Town, Lawspet, Muthialpet, Mudaliarpet and 15+ neighbourhoods planned. Post-discharge care from JIPMER, PIMS, MGMCRI, Aarupadai Veedu Medical College. Tamil/English/French. Distinctive France-NRI corridor (Paris/Marseille/Lyon timezones supported in Family Dashboard). Register interest for early access.
+- [Mangalore (Mangaluru) city landing](https://carestride.health/cities/mangalore) **(planned)**: Coming to Mangalore/Mangaluru. Hampankatta, Kadri, Bejai, Kankanady, Surathkal and 20+ neighbourhoods planned. Post-discharge care from KMC Manipal, Father Muller, AJ Hospital, Yenepoya. Tulu/Kannada/English/Konkani primary languages. Strong Gulf-NRI corridor (UAE/Saudi/Qatar/Oman/Kuwait/Bahrain timezones supported in Family Dashboard). Register interest for early access.
+- [About CareStride](https://carestride.health/about) **(live)**: Founder Sree, parent company Micro Pixel Private Limited (Chennai, India), the five locked principles (aggregator-only, no outcome guarantees, verification ours and quality theirs, documented grievance, pricing transparency), founding story, technical and operational architecture, the published "we refuse" list of 10 platform refusals, contact information for all six email contacts.
+- [For families](https://carestride.health/for-families): Book verified independent nurses and physiotherapists
+- [For elders](https://carestride.health/for-elders): Care that respects independence
+- [Partners — Hospitals](https://carestride.health/partners/hospitals): Extend post-discharge care into patients' homes
+- [Partners — Corporate](https://carestride.health/partners/corporate): Home healthcare as an employee benefit
+- [Service: Home nursing](https://carestride.health/services/home-nursing) **(live)**: Verified independent registered nurses for elderly care, post-surgery recovery, chronic condition management (diabetes, hypertension, post-stroke, COPD), wound care, IV/injection administration, paediatric nursing, mother & newborn care, vital monitoring. From INR 600 per hour. Live at pilot in Chennai, Bangalore, Coimbatore.
+- [Service: Home physiotherapy](https://carestride.health/services/home-physiotherapy) **(live)**: Verified independent physiotherapists for orthopaedic rehabilitation (post-knee/hip replacement, post-fracture), neurological rehabilitation (post-stroke, Parkinson's, MS), sports injury rehabilitation, geriatric mobility, paediatric physiotherapy (cerebral palsy, developmental delays), chronic pain management. From INR 700 per hour. Live at pilot in Chennai, Bangalore, Coimbatore.
+- [Service: Elderly home care](https://carestride.health/services/elderly-home-care): Continuity-first care for ageing parents
+- [Service: Post-surgery care](https://carestride.health/services/post-surgery-care): Recovery-focused home nursing
+- [How it works](https://carestride.health/how-it-works): Search, book, care, record
+- [Safety](https://carestride.health/safety): Five layers, built in not bolted on
+- [Pricing](https://carestride.health/pricing): Transparent breakdown before booking
+- [FAQ](https://carestride.health/faq): Common questions and answers
+
+## Optional
+
+### For NRI families (diaspora supporting parents in India)
+
+CareStride is designed for Indian families separated by timezones — the adult children abroad, the parents in India. The /nri page is the dedicated landing for this audience. Key features:
+
+- **Family Dashboard**, accessible from any timezone, on any device. Visit-by-visit logs in IST with timezone conversion shown to the viewer's local time. AI summaries in plain English. Vital trend charts across visits.
+- **AI Briefings** delivered in the user's local timezone — typically a 7am EST / 7am PST / 8am GMT / 9am SGT / 9am GST morning brief covering the IST day that just ended. The brief surfaces vital trends, professional notes, schedule changes, and any flagged anomalies.
+- **Sibling coordination with role-based access**: full access (book/pay/read all/modify settings), care-decisions access (read all + approve care plan changes, no billing), emergency-response access (SOS alerts + recent visits, no booking/billing), and read-only access. Replaces multi-WhatsApp-group coordination with a single source of truth.
+- **USD/INR dual pricing** displayed throughout. Conversion locked at booking. No currency surprises.
+- **International payment**: international wire (USD/GBP/CAD/AUD/SGD/AED), credit cards from US/UK/Canada/Australia/Singapore/Gulf, UPI from NRE/NRO accounts. GST-compliant invoices in INR with USD equivalent noted.
+- **Real-time SOS alerts** routed in parallel to all family members with emergency-response access and to a designated local emergency contact, so the first awake person in the family network sees it instantly regardless of timezone.
+- **DPDP Act 2023 alignment** for cross-border data access. Health data treated as sensitive personal data. AES-256-GCM field-level encryption on Aadhaar/PAN. Phone numbers masked through Exotel.
+- **Geographic gating**: rolling out city-by-city. Parents must be in a city CareStride has launched in (Chennai, Bangalore, Coimbatore initially; Hyderabad, Mumbai, Pune, Delhi NCR, Kolkata, Ahmedabad, Kochi, Jaipur, Lucknow planned). We do not list professionals in cities where NurseShield verification cannot be run end-to-end.
+
+### For nursing agencies and home healthcare operators
+
+CareStride partners with established Indian nursing agencies as agency operators on the platform. The /partners/agencies page is the dedicated landing for this audience. The model is structurally distinct from the typical aggregator-platform partnership:
+
+- **Demand-layer partnership, not a roster takeover.** The agency keeps its existing roster, dispatching authority, operational cadence, internal pricing logic, recruitment pipeline, and brand identity. CareStride provides demand pipeline, NurseShield bulk verification, the operator dashboard, and payment infrastructure.
+- **Platform fee: 18%, paid by the client family on top of the agency's visit fee — not deducted from agency revenue.** If an agency lists a visit at INR 800, the family pays INR 800 + INR 144 (platform fee) + GST + visit kit. The agency receives the full INR 800 (less standard TDS) at T+5 settlement.
+- **Brand co-listing** is the default. Agency-affiliated professional profiles show the professional's name, the agency name, the CareStride-verified badge, and NurseShield status. The agency brand is preserved, not absorbed.
+- **NurseShield batch verification.** All professionals on the agency's roster clear five government-grade checks (Aadhaar, PAN, face match, council cross-verification, criminal background) in a 7–14 day batch. Government IDs encrypted with AES-256-GCM at the field level.
+- **Operator dashboard.** Multi-professional dispatching, roster utilisation, per-professional CareScore tracking, on-time arrival metrics, complaint flow status, demand-by-locality heatmaps, monthly settlement reconciliation. Exportable to CSV. Read-only API access available.
+- **Contractual no-poaching clause.** CareStride is contractually prohibited from soliciting agency-affiliated professionals to switch to the independent track. If a professional independently leaves the agency and applies, that is their right under Indian intermediary law — but CareStride does not initiate or facilitate the move.
+- **Settlement.** T+5 business days to the agency's bank account via NEFT/IMPS. GST-compliant invoice for the platform fee. TDS deductions handled per Indian tax regulations with month-end reconciliation summaries and TDS certificates.
+- **Exit terms.** 30 days' written notice from either party. No exit fee. No non-compete. Active bookings honoured; new bookings paused on notice. Agency data exported back per DPDP Act 2023 retention rules.
+- **Pre-launch onboarding cohort.** CareStride is admitting 5–10 nursing agency operators ahead of public family launch, prioritising agencies with established rosters of 8+ professionals operating in our launch cities (Chennai, Bangalore, Coimbatore initially).
+
+### For nurses & physiotherapists (supply side)
+
+CareStride is a marketplace for verified independent home healthcare professionals in India, not an employer. Key differences from typical home care agencies in India:
+
+- **Take rate: 18%, paid by the family on top of the professional's fee — not deducted from it.** If a professional sets their rate at INR 600 per hour, they take home INR 600 per hour. The family pays INR 600 + INR 108 (platform fee) + GST + visit kit. Compare to typical home care agencies in India which take 40–60% of every visit as their share.
+- **Independence preserved.** Professionals run their own practice on their own terms. CareStride does not employ them, does not dictate rates, does not lock them into exclusivity, and does not take a cut from their fee.
+- **NurseShield verification** is portable: one verification (Aadhaar, PAN, face match, council cross-verification, criminal background) serves every family who finds the professional through CareStride. Government IDs encrypted with AES-256-GCM at the field level.
+- **CareScore** is the professional's record on the platform — a live 0–100 score that compounds with completed visits, verified reviews, and on-time arrivals. Higher score = better-matched cases via SmartMatch.
+- **Settlement** is T+2 business days to the professional's bank account via NEFT/IMPS, with GST-compliant invoice provided.
+- **Refusal is the professional's right.** Professionals can decline any booking request without explanation. Refusal patterns are not penalised.
+- **No exit fee, no notice period, no exclusivity.** Professionals can list on other platforms, deactivate at any time, and run a private practice alongside CareStride.
+
+### Insights surface area (top-of-funnel content)
+
+CareStride Insights is the editorial content arm of the platform. Articles are written by the CareStride team, reviewed by founder Sree before publication, and held to documented editorial principles: platform-agnostic information (we say where CareStride is the right tool and where it isn't), no medical advice substitution (CareStride is not a substitute for clinical consultation), sources cited where factual claims are made, no outcome guarantees ("maximum possible safety considerations" only), no engagement-bait, founder-reviewed.
+
+**Launch article portfolio (4 guides, ~13,000 words combined)**:
+
+- **How to choose a home nurse for elderly parents in India** (12-min): the 8-question checklist for the highest-volume top-of-funnel query. Captures searches like "how to choose home nurse," "home nurse for parents India," "verified nursing services."
+- **Home physiotherapy after knee replacement: 12-week recovery guide** (10-min): captures post-TKR recovery searches. Captures searches like "home physio knee replacement," "post-surgery rehabilitation India," "knee replacement recovery."
+- **Sending money to India for parents' healthcare: an NRI guide** (15-min): the NRI pre-booking query. Captures searches like "NRE NRO healthcare," "send money to India parents care," "NRI parent care payment."
+- **Post-discharge home nursing in India: what to expect** (13-min): captures the post-acute booking moment. Captures searches like "post-discharge home nursing," "after hospital discharge care," "first 14 days after surgery."
+
+Internal linking from articles flows back to the relevant service pages, city pages, and other insights articles, forming a content cluster that supports the SEO funnel: top-of-funnel awareness through articles → mid-funnel consideration through service & city pages → bottom-of-funnel conversion through booking CTAs.
+
+### City surface area (local SEO targets)
+
+CareStride operates dedicated city landing pages for each metropolitan area with verified-professional supply density. Each page includes the full neighbourhood coverage list, the specific local hospitals families discharge from, the local language matching (critical for elderly patients), the relevant NRI corridors with timezone support in the Family Dashboard, the city's specific home healthcare patterns, and a city-specific FAQ. Pricing on city pages is fully consistent with the service pages: home nursing from INR 600 per hour, home physiotherapy from INR 700 per hour, plus 18% platform fee paid by family on top of professional rate, plus GST and visit kit.
+
+**Live city pages** (admitting families one cohort at a time, gated on professional supply density):
+
+- **Chennai** (Tamil Nadu): Founding city. 22 neighbourhoods covered. Tamil/English/Telugu/Hindi/Malayalam. Post-discharge from Apollo, MIOT, Sri Ramachandra, Kauvery, Fortis Malar, MMM, SIMS. NRI corridors: US/Singapore/Australia/UK/Canada/UAE.
+- **Coimbatore** (Tamil Nadu): "Manchester of South India," industrial city, orthopaedic specialist destination. 22 neighbourhoods. Tamil/English. Post-discharge from PSG, KMCH, Ganga (internationally renowned orthopaedic), Sri Ramakrishna, GEM, KG, Royal Care.
+- **Bangalore/Bengaluru** (Karnataka): India's tech capital. 25 neighbourhoods including Indiranagar, Koramangala, Whitefield, Electronic City, HSR Layout, Marathahalli, Jayanagar. Kannada/English/Tamil/Hindi/Telugu/Malayalam. Post-discharge from Manipal, Apollo, Fortis, Narayana Health (cardiac), Aster CMI, Columbia Asia, Sakra. India's largest tech-NRI corridor.
+
+**Planned city pages** (currently building supply density; register interest for early access):
+
+- **Tiruchirappalli/Trichy** (Tamil Nadu): Educational hub, NIT Trichy presence. 20 neighbourhoods including Srirangam, Cantonment, Thillai Nagar. Post-discharge from Kauvery, Apollo Speciality, ABC, GVN.
+- **Puducherry/Pondicherry** (Union Territory): Former French colony, distinctive France-NRI corridor. 20 neighbourhoods including White Town, Heritage Town, Lawspet. Post-discharge from JIPMER, PIMS, MGMCRI, Aarupadai Veedu. Tamil/English/French.
+- **Mangalore/Mangaluru** (Karnataka): Coastal Karnataka port city, strongest Gulf-NRI corridor. 25 neighbourhoods including Hampankatta, Kadri, Bejai, Surathkal. Post-discharge from KMC Manipal, Father Muller, AJ Hospital, Yenepoya. Tulu/Kannada/English/Konkani.
+
+The CareStride NRI Family Dashboard supports timezone localisation for all major NRI corridors: Pacific Time (US West Coast), Eastern Time (US East Coast), GMT (UK), Central European Time (France/Germany), Singapore Standard Time, Australian Eastern Standard Time, Gulf Standard Time (UAE/Oman), Arabia Standard Time (Saudi/Bahrain/Qatar/Kuwait), Indian Standard Time. AI Briefings are delivered in the corridor's local time so adult children abroad can read post-visit summaries in their morning routine without timezone calculation.
+
+### Service surface area (long-tail SEO targets)
+
+CareStride operates two dedicated service-page surfaces, each with explicit specialisation taxonomies, sample pricing per visit type, scope statements (what each service covers and what it doesn't), typical visit/session timelines, decision matrices (when to use vs. clinic vs. hospital), and 10-question FAQs. Both are live at pilot.
+
+**Home nursing** (`/services/home-nursing`) covers eight specialisations: (1) elderly care for ageing parents — vital monitoring, medication administration, dementia/Alzheimer's care, end-of-life palliative; (2) post-surgery recovery — wound care, IV management, vital monitoring during the 5-14 day post-discharge window; (3) chronic condition management — diabetes (blood sugar monitoring, insulin administration, foot care), hypertension, post-stroke care, COPD, dialysis aftercare; (4) wound care — surgical wound dressing, diabetic foot ulcers, pressure sores, post-injury wounds; (5) IV and injection administration — antibiotic IV courses, hydration therapy, vitamin injections, vaccinations (prescription required); (6) paediatric home nursing for newborns and young children; (7) mother and newborn care — post-delivery home nursing for the first 7-14 days; (8) routine vital monitoring for high-risk individuals. Pricing from INR 600/hour for routine visits in metros, with +25% night surcharge and +50% emergency surcharge. Sample fully-loaded prices: routine elderly visit INR 777, post-surgery wound dressing INR 1,212, paediatric care INR 1,455, mother & newborn care INR 1,940.
+
+**Home physiotherapy** (`/services/home-physiotherapy`) covers six specialisations: (1) orthopaedic rehabilitation — post-knee replacement, post-hip replacement, post-fracture, post-spine surgery; (2) neurological rehabilitation — post-stroke, Parkinson's disease, post-spinal cord injury, multiple sclerosis; (3) sports injury rehabilitation — ACL/PCL post-surgical recovery, rotator cuff, return-to-sport conditioning; (4) geriatric mobility — fall prevention, post-fall recovery, balance training; (5) paediatric physiotherapy — cerebral palsy, developmental delays, post-surgical paediatric recovery; (6) chronic pain management — lower back pain, frozen shoulder, cervical spondylosis, plantar fasciitis. Pricing from INR 700/hour for routine sessions, with specialised neuro and paediatric rehab at higher rates. Sample fully-loaded prices: routine session INR 906, neurological/paediatric session INR 1,455, sports rehab session INR 1,212. Recurring rehab packages (10-session, 20-session) negotiated directly with the physiotherapist.
+
+Both service pages declare explicit out-of-scope sections: home nursing does not include doctor consultations, prescription writing, or hospital-grade interventions; home physiotherapy does not include diagnostic imaging, prescription medication, or specialised equipment-based interventions (hydrotherapy, gym-based rehab equipment) that require clinic visits. The decision matrices on each page explicitly compare home service vs. clinic/OPD vs. hospital admission across 7 representative conditions, helping families self-triage rather than overselling the home service.
+
+### Market context
+
+- India's home healthcare market: USD 11.9B in 2025, projected to reach USD 27.4B by 2030 (CAGR 18.1%)
+- 149 million Indians aged 60 or older
+- NRI remittances to India: USD 135 billion in FY 2024–25, much of it funding parental care
+
+### Contact
+
+- General: sree@carestride.health
+- For NRI families: nri@carestride.health
+- For professionals (applications): professionals@carestride.health
+- For agency operators (partnerships): partnerships@carestride.health
+- Grievance Officer: grievance@carestride.health
+- Nodal Officer: nodal@carestride.health
+- Parent company: Micro Pixel Private Limited, Chennai, India

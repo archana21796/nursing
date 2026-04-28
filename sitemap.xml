@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================================
+       LIVE PAGES — published HTML
+       ============================================================ -->
+
+  <!-- Home — for adult children, NRI families, elders -->
+  <url>
+    <loc>https://carestride.health/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/" />
+  </url>
+
+  <!-- Supply-side: nurses & physiotherapists application landing -->
+  <url>
+    <loc>https://carestride.health/for-professionals</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/for-professionals" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/for-professionals" />
+  </url>
+
+  <!-- NRI families: parents in India, family abroad -->
+  <url>
+    <loc>https://carestride.health/nri</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/nri" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/nri" />
+  </url>
+
+  <!-- Agency operators: bring your roster onto the platform -->
+  <url>
+    <loc>https://carestride.health/partners/agencies</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/partners/agencies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/partners/agencies" />
+  </url>
+
+  <!-- Home nursing services: long-tail SEO landing -->
+  <url>
+    <loc>https://carestride.health/services/home-nursing</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/services/home-nursing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/services/home-nursing" />
+  </url>
+
+  <!-- Home physiotherapy services: long-tail SEO landing -->
+  <url>
+    <loc>https://carestride.health/services/home-physiotherapy</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/services/home-physiotherapy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/services/home-physiotherapy" />
+  </url>
+
+  <!-- About: founder, mission, principles — E-E-A-T signal -->
+  <url>
+    <loc>https://carestride.health/about</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/about" />
+  </url>
+  <!-- ============================================================
+       CITY LANDING PAGES — local SEO surface
+       ============================================================ -->
+
+  <!-- Chennai: live at pilot -->
+  <url>
+    <loc>https://carestride.health/cities/chennai</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/chennai" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/chennai" />
+  </url>
+
+  <!-- Coimbatore: live at pilot -->
+  <url>
+    <loc>https://carestride.health/cities/coimbatore</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/coimbatore" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/coimbatore" />
+  </url>
+
+  <!-- Bangalore: live at pilot -->
+  <url>
+    <loc>https://carestride.health/cities/bangalore</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/bangalore" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/bangalore" />
+  </url>
+
+  <!-- Tiruchirappalli (Trichy): planned -->
+  <url>
+    <loc>https://carestride.health/cities/tiruchirappalli</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/tiruchirappalli" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/tiruchirappalli" />
+  </url>
+
+  <!-- Puducherry (Pondicherry): planned -->
+  <url>
+    <loc>https://carestride.health/cities/puducherry</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/puducherry" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/puducherry" />
+  </url>
+
+  <!-- Mangalore (Mangaluru): planned -->
+  <url>
+    <loc>https://carestride.health/cities/mangalore</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/cities/mangalore" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/cities/mangalore" />
+  </url>
+
+
+  <!-- ============================================================
+       PLANNED PAGES — listed for crawler discovery, build pending
+       ============================================================ -->
+
+  <!-- Audience landing pages -->
+  <url>
+    <loc>https://carestride.health/for-families</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/for-elders</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Partner pages -->
+  <url>
+    <loc>https://carestride.health/partners/hospitals</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/partners/corporate</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Service pages: additional service categories planned -->
+  <url>
+    <loc>https://carestride.health/services/elderly-home-care</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/services/post-surgery-care</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/services/chronic-care-management</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City landing pages (high-intent local SEO) -->
+  <url>
+    <loc>https://carestride.health/chennai</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/bangalore</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/coimbatore</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Information pages -->
+  <url>
+    <loc>https://carestride.health/how-it-works</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/pricing</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/safety</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/about</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/faq</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://carestride.health/legal/terms</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/professional-terms</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/agency-operator-terms</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/privacy</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/grievance-policy</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/grievance-redressal/submit</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://carestride.health/legal/refund-policy</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+
+  <!-- ============================================================
+       INSIGHTS — content / SEO surface
+       ============================================================ -->
+
+  <!-- Insights index -->
+  <url>
+    <loc>https://carestride.health/insights</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/insights" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/insights" />
+  </url>
+
+  <!-- Article 1: How to choose a home nurse -->
+  <url>
+    <loc>https://carestride.health/insights/how-to-choose-home-nurse-for-elderly-parents-india</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/insights/how-to-choose-home-nurse-for-elderly-parents-india" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/insights/how-to-choose-home-nurse-for-elderly-parents-india" />
+  </url>
+
+  <!-- Article 2: Home physio after knee replacement -->
+  <url>
+    <loc>https://carestride.health/insights/home-physiotherapy-after-knee-replacement-guide</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/insights/home-physiotherapy-after-knee-replacement-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/insights/home-physiotherapy-after-knee-replacement-guide" />
+  </url>
+
+  <!-- Article 3: NRI payment guide -->
+  <url>
+    <loc>https://carestride.health/insights/sending-money-india-parents-healthcare-nri-guide</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/insights/sending-money-india-parents-healthcare-nri-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/insights/sending-money-india-parents-healthcare-nri-guide" />
+  </url>
+
+  <!-- Article 4: Post-discharge home nursing -->
+  <url>
+    <loc>https://carestride.health/insights/post-discharge-home-nursing-india-what-to-expect</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://carestride.health/insights/post-discharge-home-nursing-india-what-to-expect" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carestride.health/insights/post-discharge-home-nursing-india-what-to-expect" />
+  </url>
+
+</urlset>
